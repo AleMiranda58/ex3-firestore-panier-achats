@@ -14,7 +14,8 @@ import db from '../data/firebase';
 export default function ListeProduits(props) {
   /******* Ex#3 - Étape E ********************************/ 
   // Créer un "état" React pour les produits (utiliser useState)
-  
+  //const etatProduit = useState(null);
+  //const [product, setProduit] = etatProduit;
     
   useEffect(() => {
     async function getProduits() {
