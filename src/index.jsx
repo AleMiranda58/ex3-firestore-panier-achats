@@ -6,7 +6,7 @@ import Appli from './composants/Appli';
 
 /******* Ex#3 - Étape I ********************************/ 
 // Ajuster la valeur de la constante suivante avec le nom exact de votre dépôt GitHub de solution
-// Prof:  pvt-ex3-firestore
+//nom de mon répôt github: ex3-firestore-panier-achats
 const nomDepotGitHub = "ex3-firestore-panier-achats";
 
 // Ne rien modifier aux lignes suivantes 
