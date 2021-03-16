@@ -3,15 +3,7 @@ import 'firebase/firestore';
 
 /******* Ex#3 - Étape B ********************************/ 
 // Ajouter votre objet de configuration Firebase
-const firebaseConfig = {
-  apiKey: "AIzaSyBXrvPDiqr6jXmeMFe9HQNR3m5mXpGFhzw",
-  authDomain: "pvt-h21-29626.firebaseapp.com",
-  projectId: "pvt-h21-29626",
-  storageBucket: "pvt-h21-29626.appspot.com",
-  messagingSenderId: "198365929320",
-  appId: "1:198365929320:web:b2f9494ad9b3f79794c0dd",
-  measurementId: "G-ZGV8G0YH8F"
-};
+// objet supprimer (il est toujours disponible dans ma console de firebase: pvt-h21 > panier-achats >configuration )
 
 // Initialiser Firebase
 if(!fbAppli.apps.length) {
